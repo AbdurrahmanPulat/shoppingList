@@ -16,6 +16,6 @@ The user runs the project and writes the item he wants to add to the list in the
 
 
 
-## How Has This Been Tested?
+## How has this project created?
 
-This project was tested with the help of react.
+This project was created with the help of react.
